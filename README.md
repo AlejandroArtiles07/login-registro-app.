@@ -42,13 +42,16 @@ Para ejecutar la aplicación, se deben seguir estos pasos:
    flutter run -d edge
    ```
 
+
 ## Versiones utilizadas
 
-Las versiones de Flutter y Dart se pueden consultar ejecutando el siguiente comando en la terminal:
-
-```bash
-flutter --version
-```
+- Flutter: 3.47.2
+- Dart: 3.13.2
+- DevTools: 2.60.0
+- Visual Studio Code
+- Sistema operativo: Windows
+- Navegador: Microsoft Edge
+</CodeBlock>
 
 ## Observaciones
 
